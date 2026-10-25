@@ -6,3 +6,5 @@ Drei wichtige zentrale Begriffe waren dabei:
 - Repositoriy, also quais der Überordner eines Projektes mit allen Informationen
 - Branch, also quasi Unterordner in einem Projekt mit einzelnen Arbeitsschritten
 - Commit, also das Abspeichern des aktuellen Arbeitsstandes
+
+Hier ergänze ich die READ.ME Datei um einen weiteren Punkt
